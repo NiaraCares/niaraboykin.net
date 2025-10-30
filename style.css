@@ -23,7 +23,7 @@
 
 .topnav{
     overflow: hidden;
-    background-color: var(--colord5, black);
+    background-color: var(--colord3, black);
 }
 
 .topnav a{

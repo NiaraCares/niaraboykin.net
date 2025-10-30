@@ -39,8 +39,8 @@
 .side_float{
     display: inline-block;
     float: left;
-    width: 40%;
-    padding: 15px 10px 15px 0px;
+    width: 50%;
+    padding: 15px 20px 15px 20px;
     text-align: center;
     font: var(--global-font-family, sans-serif);
     background-color: var(--colord1, gray);
@@ -50,6 +50,7 @@
 .section_parent{
     width: 90%;
     margin: auto;
+    padding: 10px;
 }
 
 .h1{

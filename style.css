@@ -1,5 +1,6 @@
 :root{
-    --global-font-family: Trebuchet MS, Arial, sans-serif;
+    --global-font-family: Arial, sans-serif;
+    --h1-font-family: Copperplate, Arial, sans-serif;
     --rounded: 20px;
     /*COLOR SCHEME 1*/
     /*
@@ -59,7 +60,7 @@
 .h1{
     font-size: 40px;
     text-decoration: bold;
-    font-family: var(--global-font-family, sans-serif);
+    font-family: var(--h1-font-family, sans-serif);
 }
 
 .p{

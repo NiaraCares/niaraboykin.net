@@ -1,5 +1,6 @@
 :root{
     --global-font-family: Trebuchet MS, Arial, sans-serif;
+    --color1: #250433;
 }
 
 .side_float{
@@ -7,4 +8,9 @@
     float: left;
     width: 50%;
     padding: 20%;
+}
+
+.topnav{
+    background-color: var(--color1, black);
+
 }

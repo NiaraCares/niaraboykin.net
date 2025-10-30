@@ -45,6 +45,7 @@
 }
 
 .side_float{
+    overflow: hidden;
     display: inline-block;
     float: left;
     width: 45%;
@@ -62,6 +63,14 @@
     margin: auto;
     padding: 15px;
     background-color: yellow;
+}
+
+.img{
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+
 }
 
 .h1{

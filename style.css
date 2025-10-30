@@ -1,0 +1,9 @@
+:root{
+    --global-font-family: Trebuchet MS, Arial, sans-serif;
+}
+
+.side_float{
+    display: inline-block;
+    float: left;
+    width: 50%;
+}

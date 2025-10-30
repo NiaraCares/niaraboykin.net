@@ -1,11 +1,35 @@
 :root{
     --global-font-family: Trebuchet MS, Arial, sans-serif;
-    --color1: #250433;
+    
+    /*COLOR SCHEME 1*/
+    /*
+    --color1_d1: #FFD9DA;
+    --color2_d2: #EA638C;
+    --color3_d3: #89023E;
+    --color4_d4: #30343F;
+    --color5_d5: #1B2021;
+    */
+
+    
+    /*COLOR SCHEME 2*/
+    
+    --color1_d1: #FFD9DA;
+    --color2_d2: #EA638C;
+    --color3_d3: #5A213E;
+    --color4_d4: #30343F;
+    --color5_d5: #1B2021;
+    
 }
 
 .topnav{
-    background-color: var(--color1, black);
+    background-color: var(--color5_d5, black);
+}
 
+.topnav a{
+    float: left;
+    color: var(--color2_d2, white);
+    text-align: center;
+    padding: 5em;
 }
 
 .side_float{

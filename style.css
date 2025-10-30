@@ -30,6 +30,7 @@
     float: left;
     color: var(--colord2, white);
     text-align: center;
+    text-decoration: none;
     padding: 20px 20px;
 }
 

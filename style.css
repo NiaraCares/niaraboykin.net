@@ -25,6 +25,8 @@
 .topnav{
     overflow: hidden;
     background-color: var(--colord3, black);
+    box-shadow: 0px 4px 8px var(--colord3, black);
+    
 }
 
 .topnav a{
@@ -35,6 +37,11 @@
     font-family: var(--global-font-family, sans-serif);
     font-size: 20px;
     padding: 20px 20px;
+}
+
+.topnav a:hover{
+    background-color: var(--colord1, lightpink);
+    color: var(--colord5, black);
 }
 
 .side_float{
@@ -53,7 +60,7 @@
 .section_parent{
     width: 90%;
     margin: auto;
-    padding: 10px;
+    padding: 15px;
     background-color: yellow;
 }
 

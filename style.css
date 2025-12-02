@@ -73,12 +73,19 @@
     margin: auto;
 }
 
-.section_parent{
+.section1_parent{
     float: top;
     width: 95%;
     margin: auto;
     padding: 15px 5px 5px 15px;
     background-color: yellow;
+}
+.section2_parent{
+    float: top;
+    width: 95%;
+    margin: auto;
+    padding: 15px 5px 5px 15px;
+    background-color: green;
 }
 
 .img{

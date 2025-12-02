@@ -88,7 +88,21 @@
     padding: 15px;
     background-color: var(--colord3, green);
 }
+.triplet_col{
+	overflow: hidden;
+    float: top;
+    width: 75%;
+    margin: auto;
+    padding: 15px;
+    background-color: var(--colord1, white);
+}
 
+.col_blurb{
+	width: 30%;
+    float: left;
+    padding: 1%;
+
+}
 .img{
     min-width: 100%;
     min-height: 100%;

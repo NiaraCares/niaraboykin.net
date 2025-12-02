@@ -76,7 +76,7 @@
 .section_parent{
     width: 95%;
     margin: auto;
-    padding: 15px;
+    padding: 15px 5px 5px 15px;
     background-color: yellow;
 }
 

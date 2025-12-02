@@ -21,10 +21,6 @@
     --colord5: #1B2021;
     
 }
-div {
-    overflow: hidden;
-    padding: 15px;
-}
 .topnav{
     overflow: hidden;
     background-color: var(--colord3, black);
@@ -77,17 +73,19 @@ div {
 }
 
 .section1_parent{
+    overflow: hidden;
     float: top;
     width: 95%;
     margin: auto;
-    padding: 15px 5px 5px 15px;
+    padding: 15px;
     background-color: var(--colord2, yellow);
 }
 .section2_parent{
+    overflow: hidden;
     float: top;
     width: 95%;
     margin: auto;
-    padding: 15px 5px 5px 15px;
+    padding: 15px;
     background-color: var(--colord3, green);
 }
 

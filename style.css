@@ -44,6 +44,16 @@
     color: var(--colord5, black);
 }
 
+.topnav p{
+    float: left;
+    color: var(--colord1, white);
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--global-font-family, sans-serif);
+    font-size: 12px;
+    padding: 2px 2px;
+}
+
 .logo a{
     float: left;
     padding: 2px 2px;

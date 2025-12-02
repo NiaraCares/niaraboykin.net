@@ -44,6 +44,11 @@
     color: var(--colord5, black);
 }
 
+.logo a{
+    float: left;
+    padding: 2px 2px;
+}
+
 .side_float{
     overflow: hidden;
     display: inline-block;

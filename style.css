@@ -30,7 +30,7 @@
 }
 
 .topnav a{
-    float: left;
+    float: right;
     color: var(--colord1, white);
     text-align: center;
     text-decoration: none;

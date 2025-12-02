@@ -21,7 +21,9 @@
     --colord5: #1B2021;
     
 }
-
+div {
+    padding: 15px;
+}
 .topnav{
     overflow: hidden;
     background-color: var(--colord3, black);

@@ -72,6 +72,20 @@
     margin: auto;
 }
 
+.center_float{
+    overflow: hidden;
+    display: inline-block;
+    float: top;
+    width: 45%;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+    font-family: var(--global-font-family, sans-serif);
+    background-color: var(--colord1, gray);
+    border-radius: var(--rounded, 20px);
+    box-shadow: 0px 4px 8px var(--colord5, black), 0px 6px 20px var(--colord4, gray);
+    margin: auto;
+}
+
 .section1_parent{
     overflow: hidden;
     float: top;
